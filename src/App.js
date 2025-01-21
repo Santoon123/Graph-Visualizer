@@ -49,7 +49,12 @@ const App = () => {
             <h1 id="Heading-of-project">Graph Visualizer</h1>
             <div id="Input-section">
                 <GraphInput edges={edges} setEdges={setEdges} />
-                <button onClick={updateGraph}>Visualize Graph</button>
+                <button onClick={updateGraph} class="buttons">
+                    Visualize Graph
+                </button>
+                <button class="buttons">BFS</button>
+                <button class="buttons">DFS</button>
+                <button class="buttons">Topological Sort</button>
             </div>
             <div id="Graph-section">
                 <GraphView elements={elements} />

@@ -12,7 +12,7 @@ const GraphInput = ({ edges, setEdges }) => {
         value={edges}
         onChange={handleChange}
         placeholder="Enter edges as [[a, b], [b, c]]"
-        style={{ width: '150px', height: '600px' }}
+        style={{ width: '150px', height: '430px' }}
       />
     </div>
   );
