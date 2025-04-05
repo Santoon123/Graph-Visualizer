@@ -1,21 +1,19 @@
-import React from 'react';
+import React from "react";
 
 const GraphInput = ({ edges, setEdges }) => {
-  const handleChange = (e) => {
-    setEdges(e.target.value);
-  };
+    const handleChange = (e) => {
+        setEdges(e.target.value);
+    };
 
-  return (
-    <div>
-      <textarea
-        rows="5"
-        value={edges}
-        onChange={handleChange}
-        placeholder="Enter edges as [[a, b], [b, c]]"
-        style={{ width: '150px', height: '430px' }}
-      />
-    </div>
-  );
+    return (
+        <textarea
+            rows="8"
+            value={edges}
+            onChange={handleChange}
+            placeholder="Enter edges as JSON array: e.g., [[1, 2], [2, 3], [1, 4]]"
+            aria-label="Graph Edge Input"
+        />
+    );
 };
 
 export default GraphInput;
