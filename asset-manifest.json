@@ -1,24 +1,15 @@
 {
   "files": {
-    "main.css": "/Graph-Visualizer/static/css/main.a6f2d847.chunk.css",
-    "main.js": "/Graph-Visualizer/static/js/main.6665ef88.chunk.js",
-    "main.js.map": "/Graph-Visualizer/static/js/main.6665ef88.chunk.js.map",
-    "runtime-main.js": "/Graph-Visualizer/static/js/runtime-main.aacdd1fa.js",
-    "runtime-main.js.map": "/Graph-Visualizer/static/js/runtime-main.aacdd1fa.js.map",
-    "static/js/2.a2636b93.chunk.js": "/Graph-Visualizer/static/js/2.a2636b93.chunk.js",
-    "static/js/2.a2636b93.chunk.js.map": "/Graph-Visualizer/static/js/2.a2636b93.chunk.js.map",
-    "static/js/3.3f3ec0ce.chunk.js": "/Graph-Visualizer/static/js/3.3f3ec0ce.chunk.js",
-    "static/js/3.3f3ec0ce.chunk.js.map": "/Graph-Visualizer/static/js/3.3f3ec0ce.chunk.js.map",
+    "main.css": "/Graph-Visualizer/static/css/main.cbae5c15.css",
+    "main.js": "/Graph-Visualizer/static/js/main.0b761971.js",
+    "static/js/488.c88df6af.chunk.js": "/Graph-Visualizer/static/js/488.c88df6af.chunk.js",
     "index.html": "/Graph-Visualizer/index.html",
-    "precache-manifest.601ec961e461ce63ec07d35a6d461e95.js": "/Graph-Visualizer/precache-manifest.601ec961e461ce63ec07d35a6d461e95.js",
-    "service-worker.js": "/Graph-Visualizer/service-worker.js",
-    "static/css/main.a6f2d847.chunk.css.map": "/Graph-Visualizer/static/css/main.a6f2d847.chunk.css.map",
-    "static/js/2.a2636b93.chunk.js.LICENSE.txt": "/Graph-Visualizer/static/js/2.a2636b93.chunk.js.LICENSE.txt"
+    "main.cbae5c15.css.map": "/Graph-Visualizer/static/css/main.cbae5c15.css.map",
+    "main.0b761971.js.map": "/Graph-Visualizer/static/js/main.0b761971.js.map",
+    "488.c88df6af.chunk.js.map": "/Graph-Visualizer/static/js/488.c88df6af.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.aacdd1fa.js",
-    "static/js/2.a2636b93.chunk.js",
-    "static/css/main.a6f2d847.chunk.css",
-    "static/js/main.6665ef88.chunk.js"
+    "static/css/main.cbae5c15.css",
+    "static/js/main.0b761971.js"
   ]
 }
